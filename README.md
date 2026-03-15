@@ -151,4 +151,4 @@ User (Mobile App) → Internet / WiFi → IoT Controller (NodeMCU) → Relay Mod
 
 Raj Patel
 
-IoT Project | Computer Engineering Student
+IoT Project | Computer Science Engineering Student
