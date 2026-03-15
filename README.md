@@ -2,10 +2,16 @@
 The Smart Home Automation System using IoT allows users to control and monitor home appliances like lights and fans remotely using a smartphone or web interface. It improves convenience, security, and energy efficiency by enabling real-time monitoring and automation of household devices through the internet.
 
 ![IoT](https://img.shields.io/badge/Technology-IoT-blue)
-![Arduino](https://img.shields.io/badge/Platform-Arduino-green)
+![Smart Home](https://img.shields.io/badge/Domain-Smart%20Home-brightgreen)
+![NodeMCU](https://img.shields.io/badge/Hardware-NodeMCU%20ESP8266-green)
+![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?logo=arduino&logoColor=white)
 ![Blynk](https://img.shields.io/badge/App-Blynk-orange)
-![NodeMCU](https://img.shields.io/badge/Hardware-NodeMCU-red)
+![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-blue)
+![Relay Module](https://img.shields.io/badge/Module-Relay-yellow)
+![WiFi](https://img.shields.io/badge/Connectivity-WiFi-lightgrey)
+![Automation](https://img.shields.io/badge/System-Home%20Automation-purple)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
 ---
 
